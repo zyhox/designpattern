@@ -1,0 +1,5 @@
+#./adapter/fileproperties/newfile.txt
+#Mon Feb 26 11:50:07 CST 2018
+day=21
+year=2004
+month=4
